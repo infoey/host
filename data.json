@@ -1,0 +1,14 @@
+{
+  "mywebsite" : "https://infoey.com",
+  "websitename" : "Infoey",
+  "allowedsites" : [
+    {"site" : "Molecule Man"},
+    {"site" : "Jane Wilson"},
+    {"site" : "Eternal Flame"},
+    {"site" : "somehere"},
+    {"site" : "here also"},
+    {"site" : "check here as well"},
+    {"site" : "dont left here"}
+  ],
+  "allowed" : ["kickassanime.rss:1995","animepace.sis:1995","betaplayer.lifes:1995"]
+}
