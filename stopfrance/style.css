@@ -211,7 +211,11 @@ p {
   text-decoration:none;
   line-height:1.5em;
 }
-
+.email {
+  display: block;
+  margin: auto;
+  width: 300px;
+}
 .topey {
   float:left;
   width:100%;
